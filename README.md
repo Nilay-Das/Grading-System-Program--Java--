@@ -14,7 +14,7 @@ Output:
 Student: B00123456 - A+
 
 
---Problem-2--
+--Problem 2--
 
 This program reads the assessment scores of multiple students and calculates their final grade. This program also calculates the class averages of each assessment.
 
@@ -32,7 +32,7 @@ Class Averages:
 Tests: 68.44 - Assignments: 78.92 - Practicums: 81.17 - PoDs: 76.00
 
 
---Problem3--
+--Problem 3--
 
 This program reads the assessment scores of multiple students and calculates their final grade. This program also calculates the class averages and medians of each assessment.
 
